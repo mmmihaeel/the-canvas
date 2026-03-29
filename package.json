@@ -1,9 +1,10 @@
 {
   "name": "the-canvas",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": true,
   "description": "A full-stack design editor built with Next.js, Hono, Fabric.js, and Stripe.",
   "author": "Mykhailo Yarytskiy",
+  "license": "MIT",
   "homepage": "https://github.com/mmmihaeel/the-canvas",
   "bugs": {
     "url": "https://github.com/mmmihaeel/the-canvas/issues"
